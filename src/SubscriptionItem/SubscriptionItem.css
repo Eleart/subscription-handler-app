@@ -1,0 +1,17 @@
+.Subscription {
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    border-radius: 10px;
+    min-width: 500px;
+    min-height: 50px;
+    margin-top: 5px;
+    text-align: center;
+    text-justify: auto;
+    vertical-align: middle;
+    line-height: 50px;  
+    justify-content: space-around;
+    font-weight: bold;
+    color: white;
+    border: solid black 1px;
+}
